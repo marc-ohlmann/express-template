@@ -1,0 +1,23 @@
+{
+  "name": "express-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marc-ohlmann/express-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marc-ohlmann/express-template/issues"
+  },
+  "homepage": "https://github.com/marc-ohlmann/express-template#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
