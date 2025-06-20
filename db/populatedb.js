@@ -1,7 +1,6 @@
 #! /usr/bin/env node
 require("dotenv").config();
 const { Client } = require("pg");
-const { connectionString } = require("./pool")
 
 const SQL = `
 CREATE TABLE IF NOT EXISTS usernames (
