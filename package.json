@@ -4,7 +4,8 @@
   "main": "app.js",
   "scripts": {
     "populatedb": "node db/populatedb.js",
-    "cleardb": "node db/cleardb.js"
+    "cleardb": "node db/cleardb.js",
+    "dev": "node app.js"
   },
   "repository": {
     "type": "git",
