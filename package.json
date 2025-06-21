@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "populatedb": "node db/populatedb.js"
+    "populatedb": "node db/populatedb.js",
+    "cleardb": "node db/cleardb.js"
   },
   "repository": {
     "type": "git",
